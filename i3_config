@@ -186,5 +186,5 @@ gaps outer 20
 
 exec --no-startup-id compton
 
-exec ~/bgslideshow.sh
+exec ~/Git/linux-config/bgslideshow.sh
 
